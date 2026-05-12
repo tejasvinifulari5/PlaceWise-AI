@@ -93,7 +93,6 @@ Data Collection
 
 ---
 
-## ▶️ Run Locally
+## 🌐 Live Demo
 
-```bash
-streamlit run app.py
+[Open PlaceWise AI](https://placewise-ai-phjp3nuykefqnamxmbzeal.streamlit.app/)

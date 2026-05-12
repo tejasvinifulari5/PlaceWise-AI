@@ -52,7 +52,7 @@ h1, h2, h3 {
 # =========================
 
 try:
-    model = joblib.load("models/logistic_model.pkl")
+    model = joblib.load("models/rf_model.pkl")
     scaler = joblib.load("models/scaler.pkl")
 
 except:
